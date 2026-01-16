@@ -50,6 +50,7 @@
 | [0595-big-countries](https://github.com/ShreyaMPattanashetti721999/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/ShreyaMPattanashetti721999/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/ShreyaMPattanashetti721999/Leetcode/tree/master/0607-sales-person) |
+| [0620-not-boring-movies](https://github.com/ShreyaMPattanashetti721999/Leetcode/tree/master/0620-not-boring-movies) |
 ## Dynamic Programming
 |  |
 | ------- |
